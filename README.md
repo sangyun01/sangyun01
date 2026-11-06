@@ -22,6 +22,7 @@ Coursework: [Computer Architecture](https://github.com/sangyun01/computer_archit
 
 - **Program Participant**, COSS for Next-Generation Semiconductors, Chung-Ang University (2026.03 – 2026.09)
 - **Undergraduate Research Intern**, Digital Architecture & SoC Hardware Lab, Chung-Ang University (2025.12 – 2026.02)
+- **Digital Circuit Design Track**, Semiconductor Specialized University Program, Chung-Ang University (2025.09 – 2027.02, expected)
 - **Undergraduate Research Intern**, Computer Architecture and Parallel Processing Lab, Seoul National University (2025.06 – 2025.07)
 - **President**, CECOM, Chung-Ang University Hardware Club (2024.03 – 2025.02)
 - **DevRel & Team Leader**, Google Developer Groups on Campus (GDGoC) CAU (2023.09 – 2026.07)

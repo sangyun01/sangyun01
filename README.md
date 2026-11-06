@@ -13,7 +13,6 @@ I mostly work with TCAD and OPC simulation, and I also have a hardware design ba
 |---|---|---|
 | [SCOUT](https://github.com/sangyun01/ML_SM) | TCAD + ML inverse design that recommends planar NMOS process recipes from a target spec and re-verifies them in Sentaurus TCAD | Python, Sentaurus TCAD |
 | [LayerNorm Approximation Accelerator](https://github.com/sangyun01/SNU_Internship) | Hardware-friendly LayerNorm for LLM acceleration (Seoul National University internship) | Verilog, Vivado, Python |
-| [MOSFET Circuit](https://github.com/sangyun01/MOSFET_Circuit) | MOSFET bias and small-signal calculator (Id, gm, ro, gain) with Id-Vgs and Id-Vds plots | C++, Python |
 
 Coursework: [Computer Architecture](https://github.com/sangyun01/computer_architecture), [Microcomputer Systems](https://github.com/sangyun01/microcomputer_system), [Operating Systems](https://github.com/sangyun01/operating_system), [Embedded Systems](https://github.com/sangyun01/Embedded_System)
 
